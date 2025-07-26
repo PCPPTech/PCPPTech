@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @PCPPTech
-- 👀 I’m interested in Programming my own applications
-- 🌱 I’m currently learning Java and git
-- 📫 You can reach me via email (eidnoxon213@gmail.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I always code at night, so that's why I'm always up until 11 PM at night minimum.
+# 👋 Hello, my username is PCPPTech/Eidnoxon! 👋
+# 👨‍💻 I really enjoy coding and building my own applications! 👨‍💻
+- For projects I use python because I think I am advanced level at it
+- I like the concept of using `C++` and i am currently learning `golang` and trying to get myself to learn `web development`!
+# ☕ My favorite thing is coding at night with a cup of coffee ^^ ☕ 
+# 😴 My dream is work at Microsoft oneday! 😴
 
 <!---
 PCPPTech/PCPPTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
